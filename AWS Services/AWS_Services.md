@@ -9,3 +9,5 @@
 [![AWS](https://img.shields.io/badge/EBS_Elastic_Block_Store-c08a44?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/AWS%20Services/Categorias/EBS_Elastic_Block_Store.md)
 
 [![AWS](https://img.shields.io/badge/ELB_Elastic_Load_Balancer-44c04c?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/AWS%20Services/Categorias/ELB_Elastic_Load_Balancer.md)
+
+[![AWS](https://img.shields.io/badge/Auto_Scaling-447ac0?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/AWS%20Services/Categorias/Auto_Scaling.md)
