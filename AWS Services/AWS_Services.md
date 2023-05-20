@@ -13,3 +13,5 @@
 [![AWS](https://img.shields.io/badge/Auto_Scaling-447ac0?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/AWS%20Services/Categorias/Auto_Scaling.md)
 
 [![AWS](https://img.shields.io/badge/VPC_Redes_en_AWS-c044b8?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/AWS%20Services/Categorias/VPC_Redes_en_AWS.md)
+
+[![AWS](https://img.shields.io/badge/S3_Simple_Storage_Service.md-c08a44?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/AWS%20Services/Categorias/EBS_Elastic_Block_Store.md)
