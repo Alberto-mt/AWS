@@ -5,7 +5,7 @@
 [![AWS](https://img.shields.io/badge/Monitorizacion-44c04c?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/AWS%20Services/Categorias/Monitorizacion.md)
 
 #### Monitorización
-- CloudWatch
+- CloudWatch:
 	- Servicio de monitoreo en tiempo real.
 	- Integrado en más de 70 servicios de AWS.
 	- Recopila datos operativos y de monitoreo en forma de registros, métricas y eventos.
