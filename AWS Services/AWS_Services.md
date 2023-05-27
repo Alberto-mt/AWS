@@ -27,3 +27,5 @@
 [![AWS](https://img.shields.io/badge/Integracion_Continua_CI_CD-44c04c?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/AWS%20Services/Categorias/Integracion_Continua_CI_CD.md)
 
 [![AWS](https://img.shields.io/badge/Automatizacion-447ac0?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/AWS%20Services/Categorias/Automatizacion.md)
+
+[![AWS](https://img.shields.io/badge/Gestion_de_la_Configuracion-c044b8?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/AWS%20Services/Categorias/Gestion_de_la_Configuracion.md)
