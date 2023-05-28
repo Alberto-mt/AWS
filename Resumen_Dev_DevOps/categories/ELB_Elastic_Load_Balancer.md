@@ -1,8 +1,8 @@
 ## AWS Services
-[![AWS](https://img.shields.io/badge/AWS_Services-ff9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/AWS%20Services/AWS_Services.md)
+[![AWS](https://img.shields.io/badge/AWS_Services-ff9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/index.md)
 
 ### ELB - Elastic Load Balancer
-  [![AWS](https://img.shields.io/badge/ELB_Elastic_Load_Balancer-44c04c?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/AWS%20Services/Categorias/ELB_Elastic_Load_Balancer.md)
+  [![AWS](https://img.shields.io/badge/ELB_Elastic_Load_Balancer-44c04c?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/ELB_Elastic_Load_Balancer.md)
 
 #### ELB_Elastic_Load_Balancer
 - Distribuye automáticamente el tráfico de aplicaciones entrantes entre varios destinos y dispositivos virtuales.

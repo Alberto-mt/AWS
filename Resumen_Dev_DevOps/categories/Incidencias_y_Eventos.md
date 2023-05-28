@@ -1,8 +1,8 @@
 ## AWS Services
-[![AWS](https://img.shields.io/badge/AWS_Services-ff9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/AWS%20Services/AWS_Services.md)
+[![AWS](https://img.shields.io/badge/AWS_Services-ff9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/index.md)
 
 ### Incidencias y eventos
-[![AWS](https://img.shields.io/badge/Incidencias_y_Eventos-c08a44?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/AWS%20Services/Categorias/Incidencias_y_Eventos.md)
+[![AWS](https://img.shields.io/badge/Incidencias_y_Eventos-c08a44?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/Incidencias_y_Eventos.md)
 
 #### Incidencias y eventos
 - GuardDuty

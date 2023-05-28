@@ -1,8 +1,8 @@
 ## AWS Services
-[![AWS](https://img.shields.io/badge/AWS_Services-ff9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/AWS%20Services/AWS_Services.md)
+[![AWS](https://img.shields.io/badge/AWS_Services-ff9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/index.md)
 
 ### VPC - Redes en AWS
-[![AWS](https://img.shields.io/badge/VPC_Redes_en_AWS-c044b8?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/AWS%20Services/Categorias/VPC_Redes_en_AWS.md)
+[![AWS](https://img.shields.io/badge/VPC_Redes_en_AWS-c044b8?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/VPC_Redes_en_AWS.md)
 
 #### VPC - Redes en AWS
 - VPC (Amazon Virtual Private Cloud): Su propia red dentro de AWS.

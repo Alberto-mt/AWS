@@ -1,8 +1,8 @@
 ## AWS Services
-[![AWS](https://img.shields.io/badge/AWS_Services-ff9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/AWS%20Services/AWS_Services.md)
+[![AWS](https://img.shields.io/badge/AWS_Services-ff9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/index.md)
 
 ### Bases de Datos en AWS
-[![AWS](https://img.shields.io/badge/BBDD_en_AWS-447ac0?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/AWS%20Services/Categorias/BBDD_en_AWS.md)
+[![AWS](https://img.shields.io/badge/BBDD_en_AWS-447ac0?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/BBDD_en_AWS.md)
 
 #### Bases de Datos en AWS
 - Las bases de datos en la nube de AWS incluyen una amplia selección de bases de datos 
