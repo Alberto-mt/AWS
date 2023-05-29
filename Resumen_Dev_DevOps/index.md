@@ -31,3 +31,5 @@
 [![AWS](https://img.shields.io/badge/Gestion_de_la_Configuracion-c044b8?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/Gestion_de_la_Configuracion.md)
 
 [![AWS](https://img.shields.io/badge/Incidencias_y_Eventos-c08a44?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/Incidencias_y_Eventos.md)
+
+[![AWS](https://img.shields.io/badge/Seguridad-44c04c?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/Seguridad.md)
