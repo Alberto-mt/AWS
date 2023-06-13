@@ -11,7 +11,6 @@
 - Proporciona un método simplificado y flexible de analizar petabytes de datos donde residan.
 - Analiza datos o crea aplicaciones a partir de un lago de datos de Amazon Simple Storage Service (S3) y más de 25 orígenes de datos, que incluyen orígenes de datos en las instalaciones u otros sistemas en la nube que usan SQL o Python.
 - [Amazon Athena](https://aws.amazon.com/es/athena/).
-- <a href="https://aws.amazon.com/es/athena/" target="_blank">Amazon Athena.</a>
 
 ##### 1.2. Procesamiento de macrodatos
 ###### **Amazon EMR**
