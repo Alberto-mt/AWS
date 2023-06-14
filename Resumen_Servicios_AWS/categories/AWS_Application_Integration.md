@@ -2,9 +2,9 @@
 [![AWS](https://img.shields.io/badge/AWS_Services-ff9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Servicios_AWS/index.md)
 
 ### AWS Application Integration
-[![AWS](https://img.shields.io/badge/AWS_Application_Integration-c044b8?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Servicios_AWS/index.md)
+[![AWS](https://img.shields.io/badge/AWS_Application_Integration-c044b8?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Servicios_AWS/categories/AWS_Application_Integration.md)
 
-#### Mensajería
+#### 1. Mensajería
 ##### **Amazon SNS**
 - Amazon Simple Notification Service (SNS) envía notificaciones de dos maneras: A2A y A2P. 
 	- A2A brinda mensajería de muchos a muchos de alto rendimiento, basada en push, entre sistemas distribuidos, microservicios y aplicaciones sin servidor controladas por eventos. Estas aplicaciones incluyen Amazon Simple Queue Service (SQS), Amazon Kinesis Data Firehose, AWS Lambda y otros puntos de conexión HTTPS. 
@@ -21,12 +21,12 @@
 - En pocos pasos, Amazon MQ aprovisiona su agente de mensajes con compatibilidad para actualizaciones de versiones de software.
 - [Amazon MQ](https://aws.amazon.com/es/amazon-mq/)
 
-#### Flujos de trabajo
+#### 2. Flujos de trabajo
 ##### **AWS Step Functions**
 - Servicio de flujo de trabajo visual que ayuda a los desarrolladores a usar servicios de AWS para crear aplicaciones distribuidas, automatizar procesos, organizar microservicios y crear canalizaciones de datos y de machine learning (ML).
 - [AWS Step Functions](https://aws.amazon.com/es/step-functions/)
 
-#### Gestión de API
+#### 3. Gestión de API
 ##### **Amazon API Gateway**
 - Servicio completamente administrado que facilita a los desarrolladores la creación, la publicación, el mantenimiento, el monitoreo y la protección de API a cualquier escala. 
 - Las API actúan como la "puerta de entrada" para que las aplicaciones accedan a los datos, la lógica empresarial o la funcionalidad de sus servicios de backend. 
@@ -40,7 +40,7 @@
 - Crea las API sin servidor de GraphQL y de publicación o suscripción que simplifican el desarrollo de aplicaciones a través de un único punto de conexión para consultar, actualizar o publicar datos de forma segura. 
 - [AWS AppSync](https://aws.amazon.com/es/appsync/)
 
-#### Bus de eventos
+#### 4. Bus de eventos
 ##### **Amazon EventBridge**
 - El bus de eventos de Amazon EventBridge es un bus de eventos sin servidor que ayuda a recibir, transformar, enrutar y entregar eventos.
 - [Amazon EventBridge](https://aws.amazon.com/es/eventbridge/)
