@@ -62,3 +62,5 @@
 ##### **AWS Local Zones** 
 - Tipo de implementación de infraestructura que ubica la computación, el almacenamiento, la base de datos y otros servicios de AWS cerca de grandes centros industriales y de población.
 - [AWS Local Zones](https://aws.amazon.com/about-aws/global-infrastructure/localzones/)
+
+[![AWS](https://img.shields.io/badge/Inicio-c08a44?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Servicios_AWS/categories/AWS_Compute.md)
