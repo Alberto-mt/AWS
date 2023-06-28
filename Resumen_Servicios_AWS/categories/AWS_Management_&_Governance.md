@@ -62,3 +62,5 @@
 - Proporciona capacidades proactivas, preventivas y de detección que elevan el nivel operativo y ayudan a reducir el riesgo sin limitar la agilidad, lo que permite centrarse en la innovación.
 - Amplía su equipo con capacidades operativas que incluyen monitorización, gestión de incidentes, detección y respuesta a incidentes de AWS, seguridad, parches, backup y optimización de costes.
 - [AWS Managed Services](https://aws.amazon.com/managed-services/)
+
+[![AWS](https://img.shields.io/badge/Inicio-c08a44?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Servicios_AWS/categories/AWS_Management_%26_Governance.md)
