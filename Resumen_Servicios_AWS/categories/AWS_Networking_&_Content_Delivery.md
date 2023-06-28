@@ -74,3 +74,5 @@ Para aplicaciones distribuidas globalmente, la opción Accelerated Site-to-Site 
 - Se pueden definir nombres personalizados para los recursos de su aplicación, y mantener la ubicación actualizada de estos recursos que cambian dinámicamente. Esto aumenta la disponibilidad de la aplicación porque el servicio web siempre descubre las ubicaciones más actualizadas de los recursos.
 - Permite registrar cualquier recurso de la aplicación, como bases de datos, colas, microservicios y otros recursos en la nube, con nombres personalizados. A continuación, Cloud Map comprueba constantemente el estado de los recursos para asegurarse de que la ubicación está actualizada. A continuación, la aplicación puede consultar el registro para conocer la ubicación de los recursos necesarios en función de la versión de la aplicación y el entorno de despliegue.
 - [AWS Cloud Map](https://aws.amazon.com/cloud-map/)
+
+[![AWS](https://img.shields.io/badge/Inicio-44c04c?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Servicios_AWS/categories/AWS_Networking_%26_Content_Delivery.md)
