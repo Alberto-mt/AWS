@@ -18,6 +18,6 @@
 
 [![AWS](https://img.shields.io/badge/AWS_Networking_&_Content_Delivery-44c04c?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Servicios_AWS/categories/AWS_Networking_%26_Content_Delivery.md)
 
-[![AWS](https://img.shields.io/badge/AWS_Security_Identity_Compliance-447ac0?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Servicios_AWS/index.md)
+[![AWS](https://img.shields.io/badge/AWS_Security_Identity_Compliance-447ac0?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Servicios_AWS/categories/AWS_Security_Identity_Compliance.md)
 
 [![AWS](https://img.shields.io/badge/AWS_Storage-c044b8?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Servicios_AWS/index.md)
