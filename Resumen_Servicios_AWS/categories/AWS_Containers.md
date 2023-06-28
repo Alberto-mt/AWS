@@ -23,3 +23,5 @@
 - Motor informático sin servidor de pago por uso que permite centrarse en la creación de aplicaciones sin tener que administrar los servidores.
 - Compatible con ECS y EKS.
 - [AWS Fargate](https://aws.amazon.com/es/fargate/).
+
+[![AWS](https://img.shields.io/badge/Inicio-44c04c?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Servicios_AWS/categories/AWS_Containers.md)
