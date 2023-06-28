@@ -93,3 +93,5 @@
 - Aumenta la velocidad de obtención de valor de los conjuntos de datos de terceros en la nube.
 - Se pueden encontrar archivos de datos, tablas de datos y API de datos de una amplia cartera de conjuntos de datos de terceros. 
 - [AWS Data Exchange](https://aws.amazon.com/data-exchange/?adx-cards2.sort-by=item.additionalFields.eventDate&adx-cards2.sort-order=desc)
+
+[![AWS](https://img.shields.io/badge/Inicio-447ac0?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Servicios_AWS/categories/AWS_Analytics.md)
