@@ -51,3 +51,5 @@
 - Simplifica la preparación de datos con transformaciones, partición y agregación. 
 - Automatiza la preparación y el registro de un esquema con el catálogo de datos de AWS Glue para poder descubrir y compartir datos con los servicios de análisis y aprendizaje automático de AWS.
 - [Amazon AppFlow](https://aws.amazon.com/appflow/)
+
+[![AWS](https://img.shields.io/badge/Inicio-c044b8?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Servicios_AWS/categories/AWS_Application_Integration.md)
