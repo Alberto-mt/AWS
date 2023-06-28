@@ -55,45 +55,56 @@
 - [Amazon Inspector](https://aws.amazon.com/es/inspector/)
 
 #### 3. Seguridad y protección de infraestructuras
-##### ****
-- 
-- []()
+##### **AWS Shield**
+- Protección DDoS.
+- Servicio de protección contra ataques DDoS que protege las aplicaciones que se ejecutan en AWS.
+- [AWS Shield](https://aws.amazon.com/es/shield/)
 
-##### ****
-- 
-- []()
+##### **AWS WAF (Web Applic­ation Firewall)**
+- Filtrar el tráfico web malicioso.
+- Ayuda a protegerse de los exploits y bots web comunes que podrían afectar la disponibilidad, poner en riesgo la seguridad o consumir demasiados recursos.
+- [AWS WAF (Web Applic­ation Firewall)](https://aws.amazon.com/es/waf/)
 
-##### ****
-- 
-- []()
+##### **AWS Firewall Manager**
+- Gestión centralizada de reglas de cortafuegos.
+- Servicio de administración de seguridad que permite la configuración y la administración centralizadas de reglas de firewalls en todas las cuentas y aplicaciones de AWS Organizations.
+- A medida que se crean nuevas aplicaciones, Firewall Manager facilita la incorporación de nuevos recursos y aplicaciones a un esquema de cumplimiento aplicando un conjunto común de reglas de seguridad.
+- [AWS Firewall Manager](https://aws.amazon.com/es/firewall-manager/)
 
 #### 4. Seguridad y protección de datos
-##### ****
-- 
-- []()
+##### **Amazon Macie**
+- Detecta y protege los datos confidenciales a escala.
+- Servicio de privacidad y seguridad de datos que utiliza machine learning (ML) y correspondencia de patrones para detectar y proteger datos confidenciales de Amazon S3.
+- [Amazon Macie](https://aws.amazon.com/es/macie/)
 
-##### ****
-- 
-- []()
+##### **AWS Key Management Service (AWS KMS)**
+- Almacenamiento y gestión de claves.
+- Permite crear, administrar y controlar claves criptográficas en las aplicaciones y en servicios de AWS.
+- [AWS Key Management Service (AWS KMS)](https://aws.amazon.com/es/kms/)
 
-##### ****
-- 
-- []()
+##### **AWS CloudHSM**
+- Almacenamiento de claves basado en hardware para el cumplimiento de la normativa.
+- Permite administrar y acceder a sus claves en hardware con validación FIPS, protegidas con instancias HSM de propiedad del cliente y de inquilino único en su propia nube privada virtual (VPC).
+- [AWS CloudHSM](https://aws.amazon.com/es/cloudhsm/)
 
-##### ****
-- 
-- []()
+##### **AWS Certificate Manager**
+- Provisión, gestión e implantación de certificados SSL/TLS públicos y privados.
+- Permite aprovisionar, administrar y desplegar certificados SSL/TLS públicos y privados para su uso con servicios de AWS y sus recursos conectados internos. ACM elimina el arduo proceso manual de compra, carga y renovación de los certificados SSL/TLS.
+- [AWS Certificate Manager](https://aws.amazon.com/es/certificate-manager/)
 
-##### ****
-- 
-- []()
+##### **AWS Secrets Manager**
+- Rotación, gestión y recuperación de secretos.
+- Permite alternar, administrar y recuperar credenciales de bases de datos, claves de API y otros datos confidenciales durante su ciclo de vida.
+- [AWS Secrets Manager](https://aws.amazon.com/es/secrets-manager/)
 
 #### 5. Respuesta a incidentes de seguridad
-##### ****
-- 
-- []()
+##### **Amazon  Detective**
+- Investigar posibles problemas de seguridad.
+- Recopila datos de registro de manera automática a partir de sus recursos de AWS y utiliza el machine learning, el análisis estadístico y la teoría de gráficos para crear un conjunto de datos vinculados que puede usar para llevar a cabo fácilmente investigaciones sobre la seguridad más eficientes.
+- [Amazon  Detective](https://aws.amazon.com/es/detective/)
 
 #### 6. Conformidad
-##### ****
-- 
-- []()
+##### **AWS Artifact**
+- Portal de autoservicio gratuito para el acceso bajo demanda a los informes de conformidad de AWS.
+- Mejor recurso central para obtener información relacionada con el cumplimiento relevante para uno mismo. Proporciona acceso bajo demanda a informes de seguridad y cumplimiento de AWS e ISV que venden sus productos en AWS Marketplace.
+- [AWS Artifact](https://aws.amazon.com/es/artifact/)
