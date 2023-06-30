@@ -20,3 +20,5 @@ instancia a la vez. Solo para una AZ. Persisten aunque termine la instancia.
     - Cargas de trabajo intensivas.
     - Rendimiento: Gigabytes - Soportan hasta 16TB.  
 - [AWS EBS](https://aws.amazon.com/es/ebs/)
+
+[![AWS](https://img.shields.io/badge/Inicio-c08a44?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/EBS_Elastic_Block_Store.md)
