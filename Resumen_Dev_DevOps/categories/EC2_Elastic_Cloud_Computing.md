@@ -2,7 +2,7 @@
 [![AWS](https://img.shields.io/badge/AWS_Services-ff9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/index.md)
 
 ### EC2 - Elastic Cloud Computing
-  [![AWS](https://img.shields.io/badge/EC2_Elastic_Cloud_Computing-c044b8?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/EC2_Elastic_Cloud_Computing.md)
+[![AWS](https://img.shields.io/badge/EC2_Elastic_Cloud_Computing-c044b8?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/EC2_Elastic_Cloud_Computing.md)
 
 #### EC2 - Elastic Cloud Computing
 - Infraestructure as a Service (IaaS)
@@ -16,3 +16,5 @@
   - Instancias optimizadas para almacenamiento.
   - Instancias optimizadas para informática acelerada.
 - [AWS EC2](https://aws.amazon.com/es/ec2/)
+
+[![AWS](https://img.shields.io/badge/Inicio-c044b8?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/EC2_Elastic_Cloud_Computing.md)
