@@ -2,7 +2,7 @@
 [![AWS](https://img.shields.io/badge/AWS_Services-ff9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/index.md)
 
 ### S3 - Simple Storage Service
-[![AWS](https://img.shields.io/badge/S3_Simple_Storage_Service.md-c08a44?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/S3_Simple_Storage_Service.md)
+[![AWS](https://img.shields.io/badge/S3_Simple_Storage_Service-c08a44?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/S3_Simple_Storage_Service.md)
 
 #### S3 - Simple Storage Service
 - Almacenamiento de objetos creado para recuperar cualquier volumen de datos desde cualquier lugar. Amazon Simple Storage Service (Amazon S3) es un servicio de almacenamiento de objetos que ofrece escalabilidad, disponibilidad de datos, seguridad y rendimiento.
@@ -72,3 +72,5 @@
 		- Key Prefijo + Nombre de Objeto.
 
 - [Amazon S3](https://aws.amazon.com/es/s3/)
+
+[![AWS](https://img.shields.io/badge/Inicio-c08a44?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/S3_Simple_Storage_Service.md)
