@@ -17,3 +17,5 @@
 			- EC2.
 			- Notificaciones SNS.
 	- [Amazon CloudWatch](https://aws.amazon.com/es/cloudwatch/)
+
+[![AWS](https://img.shields.io/badge/Inicio-44c04c?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/Monitorizacion.md)
