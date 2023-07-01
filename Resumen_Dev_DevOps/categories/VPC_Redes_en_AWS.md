@@ -70,3 +70,5 @@ de usar la infraestructura escalable de AWS.
 disponible y escalable. Conecta las peticiones de los usuarios con las aplicaciones de 
 Internet que se ejecutan en AWS o en las instalaciones.
 - [Amazon Route 53](https://aws.amazon.com/es/route53/)
+
+[![AWS](https://img.shields.io/badge/Inicio-c044b8?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/VPC_Redes_en_AWS.md)
