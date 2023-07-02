@@ -58,3 +58,5 @@ aprovisionamiento de servidores, las revisiones, la configuración y las copias 
 		transacciones bancarias.
 			- Amazon Quantum Ledger Database QLDB.
 				- [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/es/qldb/)
+
+[![AWS](https://img.shields.io/badge/Inicio-447ac0?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/BBDD_en_AWS.md)
