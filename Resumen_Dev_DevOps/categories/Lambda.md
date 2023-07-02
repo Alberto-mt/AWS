@@ -32,3 +32,5 @@ asignando dinamicamente los recursos necesarios.
 		- [Amazon SNS](https://aws.amazon.com/es/sns/)
 
 - [AWS Lambda](https://aws.amazon.com/es/lambda/)
+
+[![AWS](https://img.shields.io/badge/Inicio-c044b8?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/Lambda.md)
