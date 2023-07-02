@@ -46,3 +46,4 @@
 	- Analiza y depura errores de aplicaciones distribuidas o de producción.
 	- [AWS X-Ray](https://aws.amazon.com/es/xray/)
 	
+[![AWS](https://img.shields.io/badge/Inicio-44c04c?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Resumen_Dev_DevOps/categories/Integracion_Continua_CI_CD.md)
