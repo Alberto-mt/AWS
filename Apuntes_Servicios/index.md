@@ -20,9 +20,9 @@
 [![AWS](https://img.shields.io/badge/Config-44c04c?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Apuntes_Servicios/categories/Config.md)
 
 [![AWS](https://img.shields.io/badge/Control_Tower-447ac0?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Apuntes_Servicios/categories/Control_Tower.md)
-<!--  
-[![AWS](https://img.shields.io/badge/*-c044b8?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)]()
-
+  
+[![AWS](https://img.shields.io/badge/Devops-c044b8?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Apuntes_Servicios/categories/Devops.md)
+<!--
 [![AWS](https://img.shields.io/badge/*-c08a44?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)]()
 
 [![AWS](https://img.shields.io/badge/*-44c04c?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)]()
