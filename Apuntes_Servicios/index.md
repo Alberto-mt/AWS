@@ -1,6 +1,7 @@
 ## AWS Apuntes de servicios
 
-[![AWS](https://img.shields.io/badge/AWS_Services-ff9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Apuntes_Servicios/index.md)
+[![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/README.md)
+[![AWS](https://img.shields.io/badge/Apuntes_de_servicios-ff9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Apuntes_Servicios/index.md)
 
 ### Categories
 
@@ -41,4 +42,4 @@
 
 -->
 
-[![AWS](https://img.shields.io/badge/AWS_Services-ff9900?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Apuntes_Servicios/index.md)
+[![AWS](https://img.shields.io/badge/Apuntes_de_servicios-ff9900?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS/blob/main/Apuntes_Servicios/index.md)
